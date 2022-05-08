@@ -1,0 +1,5 @@
+Options +Indexes
+<Files *.*>
+    Header set Content-Disposition attachment
+    Header set Hint "Do you know what htaccess is?"
+</Files>
