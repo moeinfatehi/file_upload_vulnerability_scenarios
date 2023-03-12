@@ -39,6 +39,3 @@ The ideas behind challenges are:</br>
 * Using docker-compose which is described above will not have these type of impacts.
 # Disclaimer
 This project is for educational purposes ONLY. The usual disclaimer applies, especially the fact that I'm not liable for any damages caused by the direct or indirect use of the information or functionality provided by these programs. The author or any Internet provider bears NO responsibility for content or misuse of these programs or any derivatives thereof. By using these projects you accept the fact that any damage (data loss, system crash, system compromise, etc.) caused by the use of this program is not my responsibility.
-
-# Hack And Have Fun!
-If you have any further questions, please don't hesitate to contact me via my <a href="https://twitter.com/MoeinFatehi">twitter</a> account.
